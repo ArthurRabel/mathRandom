@@ -1,0 +1,1 @@
+Projeto para treinar matematica basica, ainda em desenvolvimento, falta fazer opção de recomeçar e versão mobile
