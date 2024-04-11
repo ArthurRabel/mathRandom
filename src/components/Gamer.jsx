@@ -34,7 +34,7 @@ export default function Gamer({gameStarted, nextRound, round, correct}) {
 
 
     return (
-        <div>
+        <div className='mb-5'>
             <h1 className='text-4xl mb-7 text-secundary-color'>Math Random</h1>
             <form className='mb-5 flex items-center' onSubmit={verify}>
                 <p className='text-lg'>{account}= </p>

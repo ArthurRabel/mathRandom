@@ -29,7 +29,7 @@ function App() {
   return (
     <div className="bg-bg-color min-h-screen flex items-center justify-center">
       <Alert initGame={initGame}/>
-      <main className='p-7 bg-main-color text-white rounded-sm shadow-lg flex items-center'>
+      <main className='p-7 bg-main-color text-white rounded-sm shadow-lg flex flex-col sm:flex-row items-center'>
         <Gamer gameStarted={gameStarted} nextRound={nextRound} round={round} correct={correct}/>
         <Timer gameStarted={gameStarted} nextRound={nextRound} round={round} correct={correct}  time={time} setTime={setTime}/>
       </main>
