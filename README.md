@@ -8,7 +8,7 @@
  Projeto feito para treinar REACT e Tailwind.
 
 ## Layout
-![Gamer MathRandom]()
+![Gamer MathRandom](https://raw.githubusercontent.com/ArthurRabel/mathRandom/main/public/readme/printDesktop.png)
 
 # Tecnologias utilizadas
 - HTML
